@@ -71,6 +71,15 @@
       "price": 0,
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Meta-Logo.png",
       "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "Kaliya",
+      "title": "Kaliya  AI",
+      "description": "AI assistant by Anthropic focused on safety, writing, and long conversations.",
+      "price": 11,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anthropic_logo.svg",
+      "status": "active"
     }
   ]
 }
