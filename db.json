@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "name": "chatgpt",
+      "title": "ChatGPT Pro",
+      "description": "Advanced AI chatbot by OpenAI for coding, writing, and problem-solving.",
+      "price": 20,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "gemini",
+      "title": "Google Gemini Advanced",
+      "description": "Powerful multimodal AI by Google for reasoning, chat, and productivity.",
+      "price": 19.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "claude",
+      "title": "Claude AI",
+      "description": "AI assistant by Anthropic focused on safety, writing, and long conversations.",
+      "price": 20,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anthropic_logo.svg",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "copilot",
+      "title": "GitHub Copilot",
+      "description": "AI coding assistant by GitHub for auto-completing code and boosting productivity.",
+      "price": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub_Copilot_logo.svg",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "perplexity",
+      "title": "Perplexity AI",
+      "description": "AI-powered search engine providing real-time answers with citations.",
+      "price": 20,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Perplexity_AI_logo.svg",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "midjourney",
+      "title": "MidJourney AI",
+      "description": "AI tool for generating high-quality images from text prompts.",
+      "price": 30,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Logo.png",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "dalle",
+      "title": "DALL·E",
+      "description": "Image generation model by OpenAI for creating visuals from text.",
+      "price": 15,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/DALL-E_Logo.png",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "llama",
+      "title": "Meta LLaMA",
+      "description": "Open-source large language model by Meta for research and development.",
+      "price": 0,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Meta-Logo.png",
+      "status": "inactive"
+    }
+  ]
+}
